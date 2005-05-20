@@ -1,0 +1,14 @@
+---
+name: Games-Mastermind
+version: 0.01
+author:
+  - Philippe "BooK" Bruhat <book@cpan.org>
+abstract: A simple framework for MasterMind games
+license: perl
+requires:
+  Test::More: 0
+provides:
+  Games::Mastermind:
+    file: lib/Games/Mastermind.pm
+    version: 0.01
+generated_by: Module::Build version 0.26
