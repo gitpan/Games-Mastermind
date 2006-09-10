@@ -1,6 +1,6 @@
 ---
 name: Games-Mastermind
-version: 0.02
+version: 0.03
 author:
   - 'Philippe "BooK" Bruhat <book@cpan.org>'
 abstract: A simple framework for MasterMind games
@@ -10,5 +10,5 @@ requires:
 provides:
   Games::Mastermind:
     file: lib/Games/Mastermind.pm
-    version: 0.02
+    version: 0.03
 generated_by: Module::Build version 0.26
