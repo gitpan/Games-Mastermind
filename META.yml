@@ -20,4 +20,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Games-Mastermind
   repository: http://github.com/book/Games-Mastermind.git
-version: 0.05
+version: 0.06
