@@ -1,6 +1,6 @@
 package Games::Mastermind;
 {
-  $Games::Mastermind::VERSION = '0.04';
+  $Games::Mastermind::VERSION = '0.05';
 }
 
 use warnings;
@@ -95,7 +95,7 @@ Games::Mastermind - A simple framework for Mastermind games
 
 =head1 VERSION
 
-version 0.04
+version 0.05
 
 =head1 SYNOPSIS
 
